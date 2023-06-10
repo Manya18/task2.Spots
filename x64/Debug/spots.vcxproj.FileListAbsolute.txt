@@ -1,0 +1,2 @@
+D:\github\task2.Spots\spots\x64\Debug\spots.exe
+D:\github\task2.Spots\x64\Debug\spots.exe
